@@ -7,6 +7,24 @@ Instructor: Mr. Nguyen Minh Nhut <br>
 Class: IS403.O22.HTCL<br>
 1st semester of 2023-2024 <br>
 
+---
+## Legend:
+- X: Task completed
+- (100%) Percentage completion
+
+
+## About  project
+* Topic: **FORECASTING THE CURRENCY PRICE**
+* Purpose:
+  - Developed and evaluated several models for forecasting forex 
+    - GBP (Great British Pound)
+    - EUR (Euro)
+    - JPY (Japanese Yen)
+  - Eight models used are Linear Regression, ARIMA, Exponential Smoothing (ETS), Long Short Term Memory (LSTM), Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU), Stacking Model and Multi-layer Perceptron (MLP)
+  - Model evaluation metrics: Root Mean Squared Error (RMSE),  Mean Absolute Error (MAE),  Mean Percentage Absolute Error (MAPE)
+
+## Links
+
 ## Team members
 | STT | MSSV | Full name | Role | Github | Email |
 | --- | --- | --- | --- | --- | --- |
@@ -33,24 +51,4 @@ Class: IS403.O22.HTCL<br>
 | Build model: Linear Regression, Stacking Model, LSTM | <center> </center> | <center> </center> | <center>X</center> |
 | Summarize and edit report                            | <center>X</center> | <center>X</center> | <center>X</center> |
 | Complete                                             | <center>**100%**</center>    | <center>**100%**</center> | <center>**100%**</center>   |
-
-
-
----
-## Legend:
-- X: Task completed
-- (100%) Percentage completion
-
-
-## About  project
-* Topic: **FORECASTING THE CURRENCY PRICE**
-* Purpose:
-  - Developed and evaluated several models for forecasting currency price:
-    - GBP (Great British Pound)
-    - EUR (Euro)
-    - JPY (Japanese Yen)
-  - Eight models used are Linear Regression, ARIMA, Exponential Smoothing (ETS), Long Short Term Memory (LSTM), Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU), Stacking Model and Multi-layer Perceptron (MLP)
-  - Model evaluation metrics: Root Mean Squared Error (RMSE),  Mean Absolute Error (MAE),  Mean Percentage Absolute Error (MAPE)
-
-## Links
 
