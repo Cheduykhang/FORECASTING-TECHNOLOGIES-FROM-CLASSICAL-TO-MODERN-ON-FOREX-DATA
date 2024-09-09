@@ -1,7 +1,7 @@
 
 # [IS403] Data Analysis in Business
 <h2>FINAL PROJECT</h2>
-Topic:  FORECASTING THE CURRENCY PRICE<br>
+Topic:  COMPARISON OF FORECASTING TECHNOLOGIES FROM CLASSICAL TO MODERN ON FOREX DATA<br>
 Teacher: Assoc. Prof. Dr. Nguyen Dinh Thuan <br>
 Instructor: Mr. Nguyen Minh Nhut <br>
 Class: IS403.O22.HTCL<br>
@@ -14,7 +14,7 @@ Class: IS403.O22.HTCL<br>
 
 
 ## About  project
-* Topic: **FORECASTING THE CURRENCY PRICE**
+* Topic: **COMPARISON OF FORECASTING TECHNOLOGIES FROM CLASSICAL TO MODERN ON FOREX DATA**
 * Purpose:
   - Developed and evaluated several models for forecasting forex 
     - GBP (Great British Pound)
