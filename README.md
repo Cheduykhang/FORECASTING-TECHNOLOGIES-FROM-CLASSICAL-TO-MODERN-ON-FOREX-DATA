@@ -23,6 +23,13 @@ Class: IS403.O22.HTCL<br>
   - Eight models used are Linear Regression, ARIMA, Exponential Smoothing (ETS), Long Short Term Memory (LSTM), Recurrent Neural Network (RNN), Gated Recurrent Unit (GRU), Stacking Model and Multi-layer Perceptron (MLP)
   - Model evaluation metrics: Root Mean Squared Error (RMSE),  Mean Absolute Error (MAE),  Mean Percentage Absolute Error (MAPE)
 
+* Abstract
+    The rapid fluctuations in currency exchange rates present significant challenges for investors and policymakers. This study aims to forecast exchange rates using various statistical, machine 
+    learning, and deep learning algorithms, including Linear Regression (LR), ARIMA, ETS, Stacking Model, MLP, RNN, GRU, and LSTM. We assess model performance using MAPE, RMSE, and MAE on EUR- 
+    VND, GBP-VND, and JPY-VND datasets. Findings indicate that the RNN model performs best for EUR-VND across all split ratios (7:3, 8:2, 9:1). For GBP-VND, the GRU model excels with a 7:3 split, 
+    while RNN is optimal for 8:2 and 9:1. For JPY-VND, the GRU model consistently delivers the best results across all ratios. These results highlight the effectiveness of deep learning models, 
+    especially RNN and GRU, in forecasting exchange rates and provide insights for future research and applications.
+
 ## Links
 
 ## Team members
