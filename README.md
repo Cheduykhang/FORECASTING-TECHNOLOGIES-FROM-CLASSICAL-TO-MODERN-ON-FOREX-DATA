@@ -14,7 +14,7 @@ Class: IS403.O22.HTCL<br>
 
 
 ## About  project
-* Topic: **COMPARISON OF FORECASTING TECHNOLOGIES FROM CLASSICAL TO MODERN ON FOREX DATA**
+* Topic: **COMPARISON OF FORECASTING TECHNOLOGIES FROM CLASSICAL TO MODERN ON FOREX DATA** (Using Statistical, Machine Learning, Deep Learning)
 * Purpose:
   - Developed and evaluated several models for forecasting forex 
     - GBP (Great British Pound)
