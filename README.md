@@ -1,6 +1,5 @@
 
 # Data Analysis in Business
-<h2>PROJECT</h2>
 Topic:  COMPARISON OF FORECASTING TECHNOLOGIES FROM CLASSICAL TO MODERN ON FOREX DATA<br>
 Teacher: Assoc. Prof. Dr. Nguyen Dinh Thuan <br>
 Instructor: Mr. Nguyen Minh Nhut <br>
