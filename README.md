@@ -32,8 +32,8 @@ Instructor: Mr. Nguyen Minh Nhut <br>
 ## Links
 
 ## Team members
-| STT | MSSV | Full name | Role | Github | Email |
-| --- | --- | --- | --- | --- | --- |
+| STT | MSSV | Full name | Github | Email |
+| --- | --- | --- | --- | --- |
 | 1 | 21520653 | Trinh Thi My Chung | [TTMChung](https://github.com/TTMChung) | 21520653@gm.uit.edu.vn
 | 2 | 21520595 | Tran Phuong Anh | [gracietran23](https://github.com/gracietran23) | 21520595@gm.uit.edu.vn
 | 3 | 21522187 | Che Duy Khang | [Cheduykhang](https://github.com/Cheduykhang)| 21522187@gm.uit.edu.vn
