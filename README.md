@@ -63,4 +63,15 @@ Instructor: Mr. Nguyen Minh Nhut <br>
 ![image](https://github.com/user-attachments/assets/82e82701-13e1-4c53-880b-860870e60f5d)
 
 ## Optimal Cases Visualiztion
+EUR-VND
 ![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/RNN/rnn_eur_73.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/RNN/rnn_eur_82.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/RNN/rnn_eur_91.png).
+GBP-VND
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/GRU/GRU_gbp_73.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/RNN/rnn_gbp_82.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/RNN/rnn_gbp_91.png).
+JPY-VND
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/GRU/GRU_jpy_73.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/GRU/GRU_jpy_82.png).
+![Image](https://github.com/Cheduykhang/FORECASTING_TECHNOLOGIES_FROM_CLASSICAL_TO_MODERN_ON_FOREX_DATA/blob/main/Latex_report/GRU/GRU_jpy_91.png).
