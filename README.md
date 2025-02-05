@@ -58,3 +58,4 @@ Instructor: Mr. Nguyen Minh Nhut <br>
 | Summarize and edit report                            | <center>X</center> | <center>X</center> | <center>X</center> |
 | Complete                                             | <center>**100%**</center>    | <center>**100%**</center> | <center>**100%**</center>   |
 
+![Image](https://github.com/user-attachments/assets/1450cc33-695a-4d79-bfe2-5c9bd18f9751)
